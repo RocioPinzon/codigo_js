@@ -1,0 +1,3 @@
+var division = document.querySelector("#division");
+    
+division.parentNode.insertBefore(parrafo, division);
